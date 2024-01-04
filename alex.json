@@ -1,0 +1,21 @@
+{
+  "person": {
+    "name": "Alex",
+    "age": 30,
+    "job": {
+      "title": "Software Engineer",
+      "company": "TechCo Ltd"
+    },
+    "address": {
+      "street": "123 Main Street",
+      "city": "Anytown",
+      "state": "CA",
+      "zip_code": "12345",
+      "country": "USA"
+    },
+    "contact": {
+      "email": "alex@example.com",
+      "phone": "+1 (555) 123-4567"
+    }
+  }
+}
